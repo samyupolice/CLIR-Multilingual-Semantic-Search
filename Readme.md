@@ -392,6 +392,6 @@ The evaluation was conducted on a limited product catalogue and a limited set of
 
 ## Author
 
-**Samyupolice**
+**Samyuktha Police**
 
 Data Science | NLP | Information Retrieval | Machine Learning
